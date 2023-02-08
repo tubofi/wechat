@@ -18,14 +18,14 @@ export default new Router({
       component: ContactUs,
 /*      children: [
         {
-          path: 'about_programming',
-          name: 'AboutProgramming',
-          component: AboutProgramming
+          path: 'about_coding',
+          name: 'AboutCoding',
+          component: AboutCoding
         },
         {
-          path: '/class_preview',
-          name: 'ClassPreview',
-          component: ClassPreview
+          path: '/class_presents',
+          name: 'ClassPresents',
+          component: ClassPresents
         },
         {
           path: '/contact_us',

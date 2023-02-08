@@ -5,7 +5,7 @@
     <div align="left" style="width: 90%">
       <br><div><span class="text-bold">赛思少儿编程</span></div>
       <br><div><span class="text-bold">咨询电话：</span></div>
-      <div><span class="text">王老师 19934255110（微信同号）</span></div>
+      <div><span class="text">王老师 028-87440414</span></div>
       <br><div><span class="text-bold">校区地址：</span></div>
       <div><span class="text">四川省成都市武侯区万兴路729号附4号、5号、6号、7号</span></div>
       <br><div align="center"><img width="100%" src="../assets/contact_us_01.png"></div>
