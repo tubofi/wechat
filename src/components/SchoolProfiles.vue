@@ -7,7 +7,7 @@
       <br>
       <div>
         <span class="text-bold">赛思少儿编程</span>
-        <span class="text">是赛思博锐教育科技有限公司旗下的编程教育品牌，专注于为5至15周岁青少年提供编程教育及服务。</span>
+        <span class="text">是赛思教育科技有限公司旗下的编程教育品牌，专注于为5至15周岁青少年提供编程教育及服务。</span>
       </div>
     </div>
     <br>
@@ -110,13 +110,22 @@
       <br>
       <flexbox>
         <flexbox-item>
+          <div><img style="width: 100%" src="../assets/school_profiles_17.jpg"></div>
+        </flexbox-item>
+        <flexbox-item>
+          <div><img style="width: 100%" src="../assets/school_profiles_18.jpg"></div>
+        </flexbox-item>
+      </flexbox>
+      <br><div><span class="text">赛思少儿编程专注于计算机学会、工信部、电子学会等国家权威单位组织的编程竞赛</span></div>
+      <br>
+      <flexbox>
+        <flexbox-item>
           <div><img style="width: 100%" src="../assets/school_profiles_15.jpg"></div>
         </flexbox-item>
         <flexbox-item>
           <div><img style="width: 100%" src="../assets/school_profiles_16.jpg"></div>
         </flexbox-item>
       </flexbox>
-      <br><div><span class="text">赛思少儿编程专注于计算机学会、工信部、电子学会等国家权威单位组织的编程竞赛</span></div>
       <br><div><img style="width: 100%" src="../assets/school_profiles_14.jpg"></div>
       <divider>分割线</divider>
     </div>

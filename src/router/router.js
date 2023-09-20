@@ -14,11 +14,11 @@ export default new Router({
   routes: [
     {
       path: '/',
-      name: 'ContactUs',
-      component: ContactUs,
+      name: 'SchoolProfiles',
+      component: SchoolProfiles,
 /*      children: [
         {
-          path: 'about_coding',
+          path: '/about_coding',
           name: 'AboutCoding',
           component: AboutCoding
         },

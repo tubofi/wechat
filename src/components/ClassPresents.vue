@@ -3,14 +3,26 @@
     <div><img width="100%" src="../assets/logo.png"></div>
 
     <div align="left" style="width: 90%">
-      <br><div><span class="text">赛思少儿编程为每节课制定了明确的学习目标，设计了合理的课堂步骤，并通过课后练习对所学知识加以巩固</span></div>
-      <div align="center"><img width="100%" src="../assets/class_presents_01.png"></div>
-      <div><span class="text">课堂教学资料强调学习的主动性，以引导思考和探索为目的，不采用说教式的教学方法。</span></div>
-      <br><div align="center"><video width="100%" controls="controls" autoplay="autoplay" loop src="../assets/class_presents_02.mp4"></video></div>
+      <br><div><span class="text">赛思少儿编程为每节课制定了明确的学习目标与计划，设计了合理的课堂步骤，并通过课后练习对所学知识加以巩固</span></div>
+      <br>
+      <flexbox>
+        <flexbox-item>
+          <div><img width="100%" src="../assets/class_presents_13.png"></div>
+        </flexbox-item>
+        <flexbox-item>
+          <div><img width="100%" src="../assets/class_presents_14.png"></div>
+        </flexbox-item>
+      </flexbox>
+      <br>
+      <div><span class="text">课堂教学资料强调学习的主动性，以引导思考和探索为目的，不采用说教式的教学方法, 注重核心知识的深入讲解，鼓励同学们参与互动与讨论。</span></div>
+<!--      <br><div align="center"><video width="100%" controls="controls" autoplay="autoplay" loop src="../assets/class_presents_02.mp4"></video></div>-->
+      <br>
+      <div><img width="100%" src="../assets/class_presents_15.png"></div>
+
       <br><div><span class="text">为每位同学采集课堂视频，目的是通过讲解的形式复习课堂所学知识，锻炼孩子的表达能力</span></div>
-      <br><div align="center"><video width="100%" controls="controls" src="../assets/class_presents_05.mp4"></video></div>
+<!--      <br><div align="center"><video width="100%" controls="controls" src="../assets/class_presents_05.mp4"></video></div>
       <br><div align="center"><video width="100%" controls="controls" src="../assets/class_presents_06.mp4"></video></div>
-      <br><div align="center"><video width="100%" controls="controls" src="../assets/class_presents_04.mp4"></video></div>
+      <br><div align="center"><video width="100%" controls="controls" src="../assets/class_presents_04.mp4"></video></div>-->
 <!--      <flexbox>
         <flexbox-item><div align="center"><video width="100%" controls="controls" src="../assets/class_presents_05.mp4"></video></div></flexbox-item>
         <flexbox-item><div align="center"><video width="100%" controls="controls" src="../assets/class_presents_04.mp4"></video></div></flexbox-item>
@@ -21,13 +33,15 @@
         <flexbox-item><div align="center"><img width="100%" src="../assets/class_presents_08.jpg"></div></flexbox-item>
         <flexbox-item><div align="center"><img width="100%" src="../assets/class_presents_10.jpg"></div></flexbox-item>
       </flexbox>
-      <div align="center"><video width="100%" controls="controls" src="../assets/class_presents_03.mp4"></video></div>
+      <div><img width="100%" src="../assets/class_presents_16.png"></div>
+<!--      <div align="center"><video width="100%" controls="controls" src="../assets/class_presents_03.mp4"></video></div>-->
       <br><div><span class="text">同学们也都听的很认真，希望这是他们成长过程中的一段宝贵的经历</span></div>
       <br>
       <flexbox>
         <flexbox-item><div align="center"><img width="100%" src="../assets/class_presents_09.jpg"></div></flexbox-item>
         <flexbox-item><div align="center"><img width="100%" src="../assets/class_presents_11.jpg"></div></flexbox-item>
       </flexbox>
+      <div><img width="100%" src="../assets/class_presents_17.png"></div>
       <divider>底部</divider>
     </div>
   </div>
